@@ -6,7 +6,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://tenor.com/pt-BR/view/solo-leveling-loniyke-sung-jin-woo-ore-dake-level-up-na-ken-jin-woo-gif-6735181071928342613)
+![](https://media1.tenor.com/m/XXgrgBo5OFUAAAAC/solo-leveling-loniyke.gif)
 
 
 
