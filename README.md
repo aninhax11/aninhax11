@@ -6,7 +6,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media1.tenor.com/m/XXgrgBo5OFUAAAAC/solo-leveling-loniyke.gif)
+![](https://media1.tenor.com/m/0onpDulDmTQAAAAd/satoru-gojo-gojo-satoru.gif)
 
 
 
