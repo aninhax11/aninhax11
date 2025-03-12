@@ -6,7 +6,9 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media.tenor.com/yp2dMubnVZ4AAAAi/attack-on-titan-levi.gif)
+![](https://tenor.com/pt-BR/view/solo-leveling-loniyke-sung-jin-woo-ore-dake-level-up-na-ken-jin-woo-gif-6735181071928342613)
+
+
 
 ## ➵ Áreas de interesse
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
