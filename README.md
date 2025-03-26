@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=004563&width=800&lines=Olá!+Seja+bem+vindo+ao+meu+perfil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=334c6e&width=800&lines=Olá!+Seja+bem+vindo+ao+meu+perfil" />
 </p>
 
 Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
@@ -19,9 +19,9 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
-![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=004563&title_color=ffff&text_color=ffff)
+![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=284a70&title_color=ffff&text_color=ffff)
 
-![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=004563&title_color=ffff&text_color=ffff)
+![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=284a70&title_color=ffff&text_color=ffff)
 
 ## ➵ Entre em contato comigo
 
