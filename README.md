@@ -19,9 +19,9 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
-![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=004563&title_color=ffff&text_color=ffff)
 
-![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=004563&title_color=ffff&text_color=ffff)
 
 ## ➵ Entre em contato comigo
 
