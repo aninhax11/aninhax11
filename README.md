@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f3d61&height=70&section=header"/>
+
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=41729d&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
  
@@ -34,3 +36,5 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 <a href="mailto:ana.campello@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana__meireles_/)
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f3d61&height=90&section=footer"/>
