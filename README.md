@@ -17,6 +17,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![scratch](https://img.shields.io/badge/scratch-F7931E?style=for-the-badge&logo=scratch&logoColor=white)
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
