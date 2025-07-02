@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c221a&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=a39f9e&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=362b22&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
  
 </p>
 
@@ -11,7 +11,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-![](https://media1.tenor.com/m/LXELPRJNdIkAAAAC/nagi-seishiro.gif)
+<img width=45% src=https://media1.tenor.com/m/qlt0p-16jiYAAAAC/dazai-dazai-osamu.gif />
 
 
 
