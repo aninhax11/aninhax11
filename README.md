@@ -11,7 +11,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=45% src=https://media1.tenor.com/m/qlt0p-16jiYAAAAC/dazai-dazai-osamu.gif />
+<img width=45% src=https://media1.tenor.com/m/efuG7DelnaoAAAAC/bungou-stray-dogs-bsd.gif />
 
 
 
