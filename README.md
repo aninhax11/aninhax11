@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f3d61&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c221a&height=70&section=header"/>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=41729d&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
