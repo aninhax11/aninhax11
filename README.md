@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c221a&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6174b4&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=2c221a&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=6174b4&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
  
 </p>
 
@@ -27,9 +27,9 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
-![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=2c221a&title_color=ffff&text_color=ffff)
+![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=6174b4&title_color=ffff&text_color=ffff)
 
-![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=2c221a&title_color=ffff&text_color=ffff)
+![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=6174b4&title_color=ffff&text_color=ffff)
 
 ## ➵ Entre em contato comigo
 
@@ -37,4 +37,4 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana__meireles_/)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2c221a&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6174b4&height=90&section=footer"/>
