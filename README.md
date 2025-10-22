@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d6bc70&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d43e28&height=70&section=header"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=d6bc70&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=d43e28&width=800&lines=Seja+bem+vindo+ao+meu+perfil!;+Eu+sou+uma+desenvolvedora+front-end!" />
  
 </p>
 
@@ -11,7 +11,7 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 - Estou me desenvolvendo nas Linguagens de HTML e CSS ✒️
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ❗
 
-<img width=45% src="https://i.pinimg.com/originals/8a/3b/e6/8a3be6d9bc16159dbb8a70d37c948d98.gif"/>
+<img width=45% src="https://i.pinimg.com/originals/8a/32/26/8a322652492f5544be56840b1f635cbb.gif"/>
 
 
 
@@ -27,9 +27,9 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
-![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=d6bc70&title_color=ffff&text_color=ffff)
+![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=d43e28&title_color=ffff&text_color=ffff)
 
-![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=d6bc70&title_color=ffff&text_color=ffff)
+![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=d43e28&title_color=ffff&text_color=ffff)
 
 ## ➵ Entre em contato comigo
 
@@ -37,4 +37,4 @@ Meu nome é **Ana Luiza** mas pode me chamar apenas de Ana ;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana__meireles_/)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d6bc70&height=90&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d43e28&height=90&section=footer"/>
